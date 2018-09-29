@@ -1,2 +1,2 @@
-# mhg-world-war
-Making History Gold Edition Scenario
+# World War
+A Making History Gold Edition Scenario
