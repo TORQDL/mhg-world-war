@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="optional">
+	<string id="SID.Game.Country.Description.WorldWar.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Albania" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Australia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Austria" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Burma" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Canada" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Chile" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.China" value="Manchuria is lost, and an uneasy peace now holds between your nation and the hated Japanese.  Alas, they are not your only adversary.  Within your borders the various warlords have left the national government of China weak; it&apos;s industrial level far behind that of other nations.  Now the Chinese Communist Party is growing in power, convinced that socialism is the best form of government for the Middle Kingdom. &#010;&#010;The Japanese threaten the blood of your people, while the Communist Chinese seek their allegiance.  With barely the forces to protect against one, which will it be?  Can you seek aid from other nations?  If so, who will help you oppose your internal and external threats?"/>
+	<string id="SID.Game.Country.Description.WorldWar.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Czechoslovakia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Finland" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.France" value="The Great War was a hollow victory for France.  The massive loss of manpower and industry only magnified the effects of the current global depression.  Your colonies in Africa and Indo-China have been a lodestone in recent years.  Internal political strife has further slowed rebuilding.  &#010;&#010;But now new threats are emerging closer to home.  Both Germany and Italy have adopted radical fascist ideologies.  With an Italian dictator wanting to create a New Roman Empire, and a new German chancellor rearming a rejuvenated Germany, can you muster the resources and manpower to maintain your once great empire or will France once again be a stage in the theater of war?"/>
+	<string id="SID.Game.Country.Description.WorldWar.Germany" value="You&apos;ve just been named Chancellor of Germany.  After a decade of economic woe and humiliation caused by the Treaty of Versailles, it was easy achieve power by fomenting the nationalism washing through Germany.  Now you can begin your plans to dominate Europe, and crush the hated communists to the east.  But Germany is weak.  To succeed you must rebuild your armies, develop industrial might, and stockpile resources for the conflicts to come.  &#010;&#010;You know rearmament will not sit well with the leaders of nearby nations, all of whom have the Great War still fresh in their minds.  Are European leaders really willing to go to war again to stop you?  Can you stall them while you create an invincible army?"/>
+	<string id="SID.Game.Country.Description.WorldWar.Greece" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.India" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Italy" value="The fears of a socialist uprising similar to the Soviet Union have given you total control over Fascist Italy.  Now you must seek to expand your empire and build your under-developed industry.  Where to strike?  Ethiopia is a likely target.  Albania?  Yugoslavia?  Perhaps even Greece?  &#010;&#010;To the north, the new leadership in Germany has adopted your fascist ideology.  They could be a powerful ally in your quest for empire.  But how should you proceed without creating a war with France and England?  The wrong alliance could lead to ruin, but the right one could result in a reborn Roman Empire."/>
+	<string id="SID.Game.Country.Description.WorldWar.Japan" value="Manchuria is yours!  With this victory, Japan now has some of the resources within its borders to move out of its economic depression.  But how long will it be until these newly acquired resources are not enough to fuel the fires of Japanese industry? &#010;&#010;With the Chinese government now distracted by a communist uprising within, the invasion of the rest of China seems even more sweet.  Should you build your land forces and conquer the rest of China, or continue to modernize your powerful navy until it rivals Britain and the United States?  Resource-rich colonies lie spread to your south and west.  Will new conflicts close to home distract the UK and the Dutch and leave their imperial colonies vulnerable to conquest?"/>
+	<string id="SID.Game.Country.Description.WorldWar.Korea" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.NationalistSpain" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Norway" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Oman" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Panama" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Persia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Peru" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Poland" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.RepublicanSpain" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Romania" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Siam" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.UnitedKingdom" value="Although in decline since the Great War, your nation is the still most powerful empire on Earth, and your many colonies have helped reduce the economic effects of depression for your people.  But those colonies require all of your attention, and keep your superior navy widely dispersed.  &#010;&#010;Meanwhile, new threats are brewing in neighboring Europe, a result of the rise of the extremist ideologies of Communism and Fascism.  Germany is beginning to remilitarize in contravention of the Treaty of Versailles, and Italy has its own imperial ambitions.  Your far eastern colonies are threatened by regional instability and the growing naval power of Japan.  Can you contain the threats from across the globe?  Or will one or more rivals emerge to challenge your pre-eminent empire?"/>
+	<string id="SID.Game.Country.Description.WorldWar.UnitedStates" value="With America still neck deep in the Great Depression, your focus must be to rebuild your economy.  Your navy is strong but out-dated, and your army weak and lacking modern armor.  Should you invest in new forces at once, or will that drag down your fragile first steps towards economic recovery?  &#010;&#010;You are determined to avoid being drawn once more into the political intrigues of Europe--if you can.  Will America persevere on its own side of the world, or will the threat from foreign nations seeking to expand their power through conquest force America to ready itself for war once again?"/>
+	<string id="SID.Game.Country.Description.WorldWar.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.USSR" value="The massive industrial expansion you set in motion has been wildly successful, but at the cost of millions of lives due to widespread famine and brutal purges.  Variations of your revolutionary Communist ideology is taking hold in other nations, including China and Spain.  &#010;&#010;In Europe, Germany and Italy have popularized another radical new ideology: Fascism.  How can you help spread both your ideology, and your borders, without causing the Fascists or the western democracies to ally against you?  Can you use these opposing ideologies against one another, and have the USSR emerge as the dominant force in Europe?"/>
+	<string id="SID.Game.Country.Description.WorldWar.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Laos" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Libya" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Syria" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.WorldWar.Vietnam" value=""/>
+</stringTable>

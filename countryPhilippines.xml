@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects name="Object Load" version="0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<object type="MECountry" name="">
+		<property name="strName" value="Philippines"/>
+		<property name="strGovType" value="Democratic"/>
+		<property name="sidName" value="SID.Game.Country.Name.Philippines"/>
+		<property name="sidPossessive" value="SID.Game.Country.Possessive.Philippines"/>
+		<property name="sidAdjective" value="SID.Game.Country.Adjective.Philippines"/>
+		<property name="sidPeople" value="SID.Game.Country.People.Philippines"/>
+		<property name="sidAllianceName" value="SID.Game.Country.Alliance.Philippines"/>
+		<property name="strHomelands" value="Philippines"/>
+		<property name="eCountryType" value="COUNTRYTYPE_FEATURED"/>
+		<property name="bNonPlayable" value="true"/>
+		<property name="strFlagName" value="Philippines"/>
+		<property name="strCapital" value="Manila"/>
+		<property name="strOriginalCapital" value="Manila"/>
+		<property name="bSurrendered" value="true"/>
+		<object type="CultureSet" name="objCultureSet">
+			<object type="Culture" name="objCultures">
+				<property name="strCultureName" value="Filipino"/>
+			</object>
+		</object>
+	</object>
+</objects>
