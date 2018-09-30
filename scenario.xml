@@ -3,7 +3,7 @@
 	<object type="Scenario" name="">
 		<property name="strContentPackName" value="Modern Europe"/>
 		<property name="strName" value="World War"/>
-		<property name="strDisplayName" value="Rise of the Reich"/>
+		<property name="strDisplayName" value="World War"/>
 		<property name="strDescription" value="As democracies struggle to recover from economic depression, leaders in Germany, Italy, and Japan have begun expanding their powers.  Will their actions destroy the world&apos;s fragile peace?&#010;&#010;Japan has occupied Chinese Manchuria since 1931.  Italy recently conquered Ethiopia. Nazi Germany has resumed military expansion and marched into the Rhineland, officially a demilitarized zone.  Focused on economic troubles, Britain, France, and the United States have done little to protest these aggressions.  Formerly shunned as a Communist threat, the USSR has grown popular as a potential counterweight to German power. &#010;&#010;In Spain, the Nationalists have attacked the Republican government.  How will the world respond to this civil war?"/>
 		<property name="strVersion" value="2.1.0"/>
 		<property name="fileGame" value="game.xml"/>

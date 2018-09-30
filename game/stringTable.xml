@@ -93,4 +93,5 @@
 	<string id="SID.Game.Country.Description.WorldWar.Tibet" value=""/>
 	<string id="SID.Game.Country.Description.WorldWar.Ukraine" value=""/>
 	<string id="SID.Game.Country.Description.WorldWar.Vietnam" value=""/>
+	<string id="SID.Game.City.Name.Antwerp" value="Antwerp"/>
 </stringTable>

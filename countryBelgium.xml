@@ -46,14 +46,28 @@
 				<property name="strName" value="Brussels"/>
 				<property name="strOwner" value="Belgium"/>
 				<property name="strController" value="Belgium"/>
-				<property name="vecPosition" value="[4.46908283234, 50.9886245728, 0]"/>
+				<property name="vecPosition" value="[4.51024770737, 50.7276000977, 0]"/>
 				<property name="nDirection" value="0"/>
 				<property name="sidName" value="SID.Game.City.Name.Brussels"/>
 				<property name="nPopulation" value="900228"/>
 				<property name="strInitialWorkOrder" value=""/>
 				<object type="Factory" name="objFactory">
-					<property name="nIPUs" value="54"/>
-					<property name="nTechLevel" value="3"/>
+					<property name="nIPUs" value="37"/>
+					<property name="nTechLevel" value="2"/>
+				</object>
+			</object>
+			<object type="City" name="objGOs">
+				<property name="strName" value="Antwerp"/>
+				<property name="strOwner" value="Belgium"/>
+				<property name="strController" value="Belgium"/>
+				<property name="vecPosition" value="[4.32917118073, 51.2169952393, 2.38418579102e-007]"/>
+				<property name="nDirection" value="0"/>
+				<property name="sidName" value="SID.Game.City.Name.Antwerp"/>
+				<property name="strPortForRegion" value="North Sea"/>
+				<property name="strInitialWorkOrder" value=""/>
+				<object type="Factory" name="objFactory">
+					<property name="nIPUs" value="29"/>
+					<property name="nTechLevel" value="2"/>
 				</object>
 			</object>
 		</object>
@@ -121,6 +135,7 @@
 		<object type="Army" name="objGOs">
 			<property name="strName" value="Army Area Brussels"/>
 			<property name="strOwner" value="Belgium"/>
+			<property name="vecPosition" value="[4.04042720795, 50.8548431396, 2.38418579102e-007]"/>
 			<property name="strRegion" value="Flanders"/>
 			<object type="UnitSummary" name="objUnits">
 				<property name="strName" value="PreWarInfantry"/>
@@ -147,6 +162,7 @@
 		<object type="AirForce" name="objGOs">
 			<property name="strName" value="1st Air Force"/>
 			<property name="strOwner" value="Belgium"/>
+			<property name="vecPosition" value="[4.90665912628, 51.1386947632, 2.38418579102e-007]"/>
 			<property name="strRegion" value="Flanders"/>
 			<object type="UnitSummary" name="objUnits">
 				<property name="strName" value="PreWarFighters"/>

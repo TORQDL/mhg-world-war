@@ -2,7 +2,7 @@
 <objects name="Object Load" version="0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<object type="ScenarioInfo" name="">
 		<property name="strName" value="World War"/>
-		<property name="strDisplayName" value="Rise of the Reich"/>
+		<property name="strDisplayName" value="World War"/>
 		<property name="strDescription" value="The world struggles in the grip of a global depression.  The 19th century empires of Europe have disintegrated, and the power vacuum they left behind has given rise to new, radical ideologies that threaten to destabilize all of Europe.  The UK struggles to maintain its dispersed colonies, the United States and France turn inwards to restructure their economies, and the Soviet Union consolidates its internal power though ruthless oppression and widespread famine.   &#010;&#010;Meanwhile, a new leader comes to power in Germany.   Eager to reverse a decade of deprivation, and determined to vacate the Treaty of Versailles, Germany is poised to remilitarize and expand its borders.  Who will fall victim to its quest for empire?  "/>
 		<property name="strVersion" value="2.1.0"/>
 		<property name="eScenarioType" value="USER_CREATED"/>
