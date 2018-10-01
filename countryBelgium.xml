@@ -46,13 +46,13 @@
 				<property name="strName" value="Brussels"/>
 				<property name="strOwner" value="Belgium"/>
 				<property name="strController" value="Belgium"/>
-				<property name="vecPosition" value="[4.51024770737, 50.7276000977, 0]"/>
+				<property name="vecPosition" value="[4.46908283234, 50.7886238098, 0]"/>
 				<property name="nDirection" value="0"/>
 				<property name="sidName" value="SID.Game.City.Name.Brussels"/>
 				<property name="nPopulation" value="900228"/>
 				<property name="strInitialWorkOrder" value=""/>
 				<object type="Factory" name="objFactory">
-					<property name="nIPUs" value="37"/>
+					<property name="nIPUs" value="30"/>
 					<property name="nTechLevel" value="2"/>
 				</object>
 			</object>
@@ -60,13 +60,14 @@
 				<property name="strName" value="Antwerp"/>
 				<property name="strOwner" value="Belgium"/>
 				<property name="strController" value="Belgium"/>
-				<property name="vecPosition" value="[4.32917118073, 51.2169952393, 2.38418579102e-007]"/>
+				<property name="vecPosition" value="[4.46908330917, 51.2099990845, 0]"/>
 				<property name="nDirection" value="0"/>
 				<property name="sidName" value="SID.Game.City.Name.Antwerp"/>
+				<property name="nPopulation" value="690228"/>
 				<property name="strPortForRegion" value="North Sea"/>
 				<property name="strInitialWorkOrder" value=""/>
 				<object type="Factory" name="objFactory">
-					<property name="nIPUs" value="29"/>
+					<property name="nIPUs" value="25"/>
 					<property name="nTechLevel" value="2"/>
 				</object>
 			</object>
