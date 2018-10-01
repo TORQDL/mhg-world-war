@@ -123,6 +123,20 @@
 					<property name="nIPUs" value="1"/>
 				</object>
 			</object>
+			<object type="City" name="objGOs">
+				<property name="strName" value="Matadi"/>
+				<property name="strOwner" value="Belgium"/>
+				<property name="strController" value="Belgium"/>
+				<property name="vecPosition" value="[13.3750829697, -5.74350547791, 0]"/>
+				<property name="nDirection" value="0"/>
+				<property name="sidName" value="SID.Game.City.Name.Matadi"/>
+				<property name="nPopulation" value="36000"/>
+				<property name="strPortForRegion" value="Congolese Coast"/>
+				<property name="strInitialWorkOrder" value=""/>
+				<object type="Factory" name="objFactory">
+					<property name="nIPUs" value="1"/>
+				</object>
+			</object>
 		</object>
 		<object type="Army" name="objGOs">
 			<property name="strName" value="1st Colonial Army"/>
